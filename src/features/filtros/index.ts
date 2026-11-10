@@ -1,0 +1,1 @@
+export { BarraFiltros } from './BarraFiltros'

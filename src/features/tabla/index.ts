@@ -1,0 +1,1 @@
+export { TablaOperaciones } from './TablaOperaciones'

@@ -1,0 +1,1 @@
+export { TarjetasKpi } from './TarjetasKpi'
